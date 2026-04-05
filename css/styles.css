@@ -21,7 +21,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2e2f42;}
 
-.header-logo__web{color: #4d5ae5;} 
+.header-logo-web{color: #4d5ae5;} 
 
 .header-link:hover,
 .header-link:focus {
@@ -197,7 +197,7 @@ text-transform: uppercase;
 color: #f4f4fd;
 }
 
-.footer-logo__web {color: #4d5ae5;
+.footer-logo-web {color: #4d5ae5;
 }
 
 .footer-text {
